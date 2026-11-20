@@ -5,7 +5,7 @@ Trabajo Práctico Integrador: filtros, ordenamientos y estadísticas sobre un da
 
 | Recurso | Enlace |
 |---|---|
-|  Video demostrativo (permisos públicos) | **[PEGAR AQUÍ EL ENLACE AL VIDEO]** |
+|  Video demostrativo (permisos públicos) | **https://drive.google.com/drive/folders/19uj-ZtT32tFh72VNJGV15azuR6NiQ61e?usp=sharing** |
 |  Documentación en PDF | [`Documentacion_TPI.pdf`](Documentacion_TPI.pdf) (subido en la raíz del repositorio) |
 
 ## Integrantes y participación
